@@ -8,11 +8,12 @@ const BtnDiv = styled.div`
     font-size: 18px;
     font-weight: bold;
     text-align: center;
+    border-radius: 5px;
+    padding: 19px;
 `
 
-
-export default function Button() {
+export default function Button({text}) {
   return (
-    <BtnDiv>가입하기</BtnDiv>
+    <BtnDiv>{text}</BtnDiv>
   )
 }
