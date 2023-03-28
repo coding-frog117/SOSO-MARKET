@@ -24,7 +24,7 @@ function App() {
         <InputTitle>이메일</InputTitle>
         <IdInputBox required></IdInputBox>
         <Terms></Terms>
-        <Button text="안녕"></Button>
+        <Button text="가입하기"></Button>
       </Layout>
       
       <SelectTab>
