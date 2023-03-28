@@ -26,7 +26,7 @@ export default function Terms() {
   return (
     <TermsForm>
       <TermsInp type='checkbox' />
-        소소마켓의 이용약관 및 개인정보처리방침에 대한 내용을 확인하였고 동의합니다.
+        OO마켓의 이용약관 및 개인정보처리방침에 대한 내용을 확인하였고 동의합니다.
     </TermsForm>
   )
 }
